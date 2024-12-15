@@ -32,15 +32,11 @@ Project Bolt is a comprehensive web application designed for professionals to ma
 - Node.js (v18+ recommended)
 - npm (v9+)
 
-## 🔧 Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/project-bolt.git
-cd project-bolt
-
 
 📊 Outputs
-![Screenshot 2024-12-15 215032](https://github.com/user-attachments/assets/77eeac71-262c-4361-baa9-129787d17730)
-![Screenshot 2024-12-15 215017](https://github.com/user-attachments/assets/2295d27e-a356-45bb-ad61-69b9ee15ff88)
-![Screenshot 2024-12-15 214949](https://github.com/user-attachments/assets/fb7e9a1d-3cfe-4108-8d3a-4b51929d66f7)
+
+![Screenshot 2024-12-15 215032](https://github.com/user-attachments/assets/3477032e-5804-414f-8d41-6286bbed069e)
+![Screenshot 2024-12-15 215017](https://github.com/user-attachments/assets/03f94efd-3e09-448c-80d5-5c9a6a1de4d8)
+![Screenshot 2024-12-15 214949](https://github.com/user-attachments/assets/3825f493-967d-4074-a40a-c78a4c73a8cb)
+
+
