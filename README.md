@@ -35,8 +35,11 @@ Project Bolt is a comprehensive web application designed for professionals to ma
 
 📊 Outputs
 
+### 1. **Phone view**  
 ![Screenshot 2024-12-15 215032](https://github.com/user-attachments/assets/3477032e-5804-414f-8d41-6286bbed069e)
 ![Screenshot 2024-12-15 215017](https://github.com/user-attachments/assets/03f94efd-3e09-448c-80d5-5c9a6a1de4d8)
+
+### 1. **Desktop view**
 ![Screenshot 2024-12-15 214949](https://github.com/user-attachments/assets/3825f493-967d-4074-a40a-c78a4c73a8cb)
 
 
